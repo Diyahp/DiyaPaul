@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 My name is Diya Paul Pelumi</h1>
 <h3 align="center">A passionate Data Analyst</h3>
+
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diyahp" alt="diyahp" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/paul_diyah" target="blank"><img src="https://img.shields.io/twitter/follow/paul_diyah?logo=twitter&style=for-the-badge" alt="paul_diyah" /></a> </p>
 
